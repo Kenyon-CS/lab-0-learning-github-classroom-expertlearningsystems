@@ -1,4 +1,4 @@
-// James Skon - was here!
+// James Skon, PhD
 // Data Structures
 #include <algorithm>
 #include <fstream>
