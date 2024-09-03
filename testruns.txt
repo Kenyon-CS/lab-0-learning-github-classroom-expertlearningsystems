@@ -5,3 +5,7 @@ hips
 phis
 pish
 ship
+Enter a word: river
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'river':
+river
